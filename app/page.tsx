@@ -1,5 +1,4 @@
 import Image from "next/image";
-import getServerSideProps from "./data/pages/dashboard";
 
 export default function Home() {
   return (
